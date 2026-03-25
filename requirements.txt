@@ -1,0 +1,4 @@
+tavily-python
+google-genai>=1.0.0
+groq
+python-dotenv>=1.0.0
